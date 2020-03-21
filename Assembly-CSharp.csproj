@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{CD2649F3-C9FB-4309-12D2-13782E6A271A}</ProjectGuid>
+    <ProjectGuid>{C91EF56B-4367-D516-FDCD-6305E226BDDA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -69,19 +69,19 @@
     <Compile Include="Assets\Scripts\Shooter.cs" />
     <Compile Include="Assets\Scripts\Spawner.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Cactus-vs-Animals/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Cactus-vs-Animals/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Cactus-vs-Animals/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Cactus-vs-Animals/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Cactus-vs-Animals/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -288,13 +288,13 @@
       <HintPath>/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Cactus-vs-Animals/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Cactus-vs-Animals/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Cactus-vs-Animals/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>/Applications/Unity/Hub/Editor/2018.4.15f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

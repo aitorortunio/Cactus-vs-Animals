@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a6c688fc282614a9b9501ac1a331a04a
+guid: b64bfe02899e349a08ee56846d8fa736
 TextureImporter:
   fileIDToRecycleName:
     21300000: BGreen elve attack_0
@@ -14,14 +14,6 @@ TextureImporter:
     21300018: BGreen elve attack_9
     21300020: BGreen elve attack_10
     21300022: BGreen elve attack_11
-    21300024: BGreen elve attack_12
-    21300026: BGreen elve attack_13
-    21300028: BGreen elve attack_14
-    21300030: BGreen elve attack_15
-    21300032: BGreen elve attack_16
-    21300034: BGreen elve attack_17
-    21300036: BGreen elve attack_18
-    21300038: BGreen elve attack_19
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -130,8 +122,8 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1528
-        width: 491
+        y: 1524
+        width: 500
         height: 382
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -140,7 +132,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f12f097ac034f408295c3554db8fa51c
+      spriteID: 28d272f7ebd584497b8033964d9a77c9
       vertices: []
       indices: 
       edges: []
@@ -149,9 +141,9 @@ TextureImporter:
       name: BGreen elve attack_1
       rect:
         serializedVersion: 2
-        x: 491
-        y: 1528
-        width: 491
+        x: 500
+        y: 1524
+        width: 500
         height: 382
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -160,7 +152,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0da6072005dac463586ff7a030f533c6
+      spriteID: 842c697382e9a4b95b98ef1edf3fbd74
       vertices: []
       indices: 
       edges: []
@@ -169,9 +161,9 @@ TextureImporter:
       name: BGreen elve attack_2
       rect:
         serializedVersion: 2
-        x: 982
-        y: 1528
-        width: 491
+        x: 1000
+        y: 1524
+        width: 500
         height: 382
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -180,7 +172,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a74be53ada1f4349a53946c5968df67
+      spriteID: f91e19bc7a6d9424fa62281978df62ab
       vertices: []
       indices: 
       edges: []
@@ -189,9 +181,9 @@ TextureImporter:
       name: BGreen elve attack_3
       rect:
         serializedVersion: 2
-        x: 1473
-        y: 1528
-        width: 491
+        x: 0
+        y: 1142
+        width: 500
         height: 382
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -200,7 +192,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd7f91b36fea24bdd86c2f042410dcef
+      spriteID: ac98f29c00893449da7cb22981ec2884
       vertices: []
       indices: 
       edges: []
@@ -209,9 +201,9 @@ TextureImporter:
       name: BGreen elve attack_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1146
-        width: 491
+        x: 500
+        y: 1142
+        width: 500
         height: 382
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -220,7 +212,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4eadd1f2a644948a2ab24485caaf428a
+      spriteID: 94729a0c85ba0410c8ef00701ad8d409
       vertices: []
       indices: 
       edges: []
@@ -229,9 +221,9 @@ TextureImporter:
       name: BGreen elve attack_5
       rect:
         serializedVersion: 2
-        x: 491
-        y: 1146
-        width: 491
+        x: 1000
+        y: 1142
+        width: 500
         height: 382
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -240,7 +232,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1611f0ac65350490e89c701b95866d2e
+      spriteID: ae48ae4a7f39241ebbf583bcc7753c33
       vertices: []
       indices: 
       edges: []
@@ -249,9 +241,9 @@ TextureImporter:
       name: BGreen elve attack_6
       rect:
         serializedVersion: 2
-        x: 982
-        y: 1146
-        width: 491
+        x: 0
+        y: 760
+        width: 500
         height: 382
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -260,7 +252,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0b3fe8af569a42fab44285d68d4dc9f
+      spriteID: 7a8c797e213d845d8b1e749f8e9c2681
       vertices: []
       indices: 
       edges: []
@@ -269,9 +261,9 @@ TextureImporter:
       name: BGreen elve attack_7
       rect:
         serializedVersion: 2
-        x: 1473
-        y: 1146
-        width: 491
+        x: 500
+        y: 760
+        width: 500
         height: 382
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -280,7 +272,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a01d102ee8094c0789cd47107e50f49
+      spriteID: ef6645d9c4e96481c93693e4a2844ea6
       vertices: []
       indices: 
       edges: []
@@ -289,9 +281,9 @@ TextureImporter:
       name: BGreen elve attack_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 764
-        width: 491
+        x: 1000
+        y: 760
+        width: 500
         height: 382
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -300,7 +292,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd1f417a3e25141a2ad4c92167885877
+      spriteID: 929dc4a865d0141bab6f4adced836a14
       vertices: []
       indices: 
       edges: []
@@ -309,9 +301,9 @@ TextureImporter:
       name: BGreen elve attack_9
       rect:
         serializedVersion: 2
-        x: 491
-        y: 764
-        width: 491
+        x: 0
+        y: 378
+        width: 500
         height: 382
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -320,7 +312,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8db5919b8999b451e99763713a597984
+      spriteID: 3270d687c8305401da07ef623a7db899
       vertices: []
       indices: 
       edges: []
@@ -329,9 +321,9 @@ TextureImporter:
       name: BGreen elve attack_10
       rect:
         serializedVersion: 2
-        x: 982
-        y: 764
-        width: 491
+        x: 500
+        y: 378
+        width: 500
         height: 382
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -340,7 +332,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c41ce70aadb147fbb82000ba8acb2f4
+      spriteID: ac010a68d161549d6b6f258fe6f72d02
       vertices: []
       indices: 
       edges: []
@@ -349,9 +341,9 @@ TextureImporter:
       name: BGreen elve attack_11
       rect:
         serializedVersion: 2
-        x: 1473
-        y: 764
-        width: 491
+        x: 1000
+        y: 378
+        width: 500
         height: 382
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -360,167 +352,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc2f7306f1eaf409d8b21fb59c5465ed
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BGreen elve attack_12
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 382
-        width: 491
-        height: 382
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 908132c89856f4921b4a492acbac968c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BGreen elve attack_13
-      rect:
-        serializedVersion: 2
-        x: 491
-        y: 382
-        width: 491
-        height: 382
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4d67505b03a7b4effb27fbaf56adfece
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BGreen elve attack_14
-      rect:
-        serializedVersion: 2
-        x: 982
-        y: 382
-        width: 491
-        height: 382
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6198d61a4cc146a0ac431d43bcf2741
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BGreen elve attack_15
-      rect:
-        serializedVersion: 2
-        x: 1473
-        y: 382
-        width: 491
-        height: 382
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2d5c83a1903c6481b803e8618fe59c38
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BGreen elve attack_16
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 491
-        height: 382
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 456e75787ed8546edb342a4a884c3dc4
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BGreen elve attack_17
-      rect:
-        serializedVersion: 2
-        x: 491
-        y: 0
-        width: 491
-        height: 382
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5d65eda41744d482b90b9c81383b4ded
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BGreen elve attack_18
-      rect:
-        serializedVersion: 2
-        x: 982
-        y: 0
-        width: 491
-        height: 382
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 93a2308393c864f38b94a14494ed9546
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BGreen elve attack_19
-      rect:
-        serializedVersion: 2
-        x: 1473
-        y: 0
-        width: 491
-        height: 382
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a6220e48fdd2b47efa78bd8cb2622981
+      spriteID: db5ba0a7a1519422dbef62a495466ec3
       vertices: []
       indices: 
       edges: []
@@ -528,7 +360,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: dca815ab546dc49498c955856eb2f84a
+    spriteID: 5c13456259b8a403f820d7acca223e3f
     vertices: []
     indices: 
     edges: []

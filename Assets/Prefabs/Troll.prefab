@@ -12,6 +12,8 @@ GameObject:
   - component: {fileID: 6440089903975603976}
   - component: {fileID: 6440089903975603977}
   - component: {fileID: 6440089903975603974}
+  - component: {fileID: 660405517}
+  - component: {fileID: 660405518}
   m_Layer: 0
   m_Name: Troll
   m_TagString: Untagged
@@ -112,4 +114,94 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22baa50e1a14a4c5d9987f2dbc3ab17d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkSpeed: 0.7
+  speed: 1
+--- !u!60 &660405517
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6440089903975603978}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 7.74, y: 5.12}
+    newSize: {x: 7.74, y: 5.12}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 1.859562, y: -1.5024345}
+      - {x: 1.8359778, y: -1.1015005}
+      - {x: 1.7416403, y: -0.7949039}
+      - {x: 1.9774839, y: -0.3703855}
+      - {x: 2.0718212, y: -0.55906034}
+      - {x: 2.3076649, y: -0.865657}
+      - {x: 2.2840805, y: -1.3845128}
+      - {x: 2.4020023, y: -1.5731876}
+      - {x: 2.6142614, y: -1.7618624}
+      - {x: 2.9444425, y: -1.7854468}
+      - {x: 3.3453765, y: -1.7146937}
+      - {x: 3.6048043, y: -1.5024345}
+      - {x: 3.7698948, y: -1.2901753}
+      - {x: 3.840648, y: -0.8420726}
+      - {x: 3.8642323, y: -0.39396986}
+      - {x: 3.8642323, y: -0.25246373}
+      - {x: 3.4161296, y: 0.45506692}
+      - {x: 3.4161296, y: 0.6201574}
+      - {x: 2.8972738, y: 1.1154288}
+      - {x: 2.7321832, y: 1.4691942}
+      - {x: 2.378418, y: 1.7050377}
+      - {x: 2.1661587, y: 1.657869}
+      - {x: 2.001068, y: 1.9172969}
+      - {x: 1.5765499, y: 2.2238934}
+      - {x: 0.9161879, y: 2.4361527}
+      - {x: 0.23224162, y: 2.577659}
+      - {x: -0.14510806, y: 2.577659}
+      - {x: -0.42812032, y: 2.4361527}
+      - {x: -0.6403795, y: 2.176725}
+      - {x: -0.9705605, y: 1.4691942}
+      - {x: -0.9469761, y: 0.9975071}
+      - {x: -0.876223, y: 0.90316963}
+      - {x: -0.39630726, y: -0.7317171}
+      - {x: -0.2630298, y: -1.007163}
+      - {x: -0.31019855, y: -1.5731876}
+      - {x: -0.07435499, y: -1.6203563}
+      - {x: 0.06715114, y: -1.7618624}
+      - {x: 0.21661384, y: -1.8319511}
+      - {x: 0.37374756, y: -1.9419748}
+      - {x: 0.5860063, y: -2.1229727}
+      - {x: 1.0261004, y: -2.2016788}
+      - {x: 1.0732173, y: -2.0128937}
+      - {x: 1.5765499, y: -1.5496032}
+      - {x: 1.8123934, y: -1.5496032}
+--- !u!50 &660405518
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6440089903975603978}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
