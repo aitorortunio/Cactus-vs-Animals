@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 6440089903975603974}
   - component: {fileID: 660405517}
   - component: {fileID: 660405518}
+  - component: {fileID: 114998107029965672}
   m_Layer: 0
   m_Name: Troll
   m_TagString: Untagged
@@ -114,7 +115,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22baa50e1a14a4c5d9987f2dbc3ab17d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1
+  speed: 2
 --- !u!60 &660405517
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -205,3 +206,16 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &114998107029965672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6440089903975603978}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f68825eb85dde42a2b9ce307ecd6da48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 100
