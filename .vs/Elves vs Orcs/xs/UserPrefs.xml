@@ -1,14 +1,18 @@
 ﻿<Properties StartupConfiguration="{C91EF56B-4367-D516-FDCD-6305E226BDDA}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Health.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DefenderButton.cs">
     <Files>
-      <File FileName="Assets/Scripts/Projectile.cs" Line="17" Column="22" />
-      <File FileName="Assets/Scripts/Shooter.cs" Line="15" Column="1" />
-      <File FileName="Assets/Scripts/Health.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/Projectile.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scripts/Shooter.cs" />
+      <File FileName="Assets/Scripts/Health.cs" />
+      <File FileName="Assets/Scripts/Attacker.cs" />
+      <File FileName="Assets/Scripts/DefenderSpawner.cs" />
+      <File FileName="Assets/Scripts/Shredder.cs" Line="9" Column="39" />
+      <File FileName="Assets/Scripts/DefenderButton.cs" Line="7" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f956e241-d1b2-4f9f-82bc-31ac9d4e9fc9" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1edb6728-178b-4cb9-8fcb-7fda9159a961" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
