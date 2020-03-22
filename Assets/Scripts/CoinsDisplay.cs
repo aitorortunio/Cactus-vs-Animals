@@ -6,11 +6,32 @@ using UnityEngine.UI;
 public class CoinsDisplay : MonoBehaviour
 {
     [SerializeField] int coins = 100;
+    Text coinsText;
 
-    // Start is called before the first frame update
     void Start()
     {
-        
+        coinsText = GetComponent<Text>();
+        UpdateDisplay();
+    }
+
+    private void UpdateDisplay()
+    {
+        coinsText.text = coins.ToString();
+    }
+
+    public void AddCoins(int amount)
+    {
+        coins += amount;
+        UpdateDisplay();
+    }
+
+    public void SpendCoins(int amount)
+    {
+        if (coins >= amount)
+        {
+            coins -= amount;
+            UpdateDisplay();
+        }
     }
 
 }
