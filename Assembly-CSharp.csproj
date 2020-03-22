@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Attacker.cs" />
+    <Compile Include="Assets\Scripts\CoinsDisplay.cs" />
     <Compile Include="Assets\Scripts\Defender.cs" />
     <Compile Include="Assets\Scripts\DefenderButton.cs" />
     <Compile Include="Assets\Scripts\DefenderSpawner.cs" />
