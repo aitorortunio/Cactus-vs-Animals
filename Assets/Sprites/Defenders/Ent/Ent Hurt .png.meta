@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: f7fc6176ee1db4274ab31bd603f644cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3329244880384701334
+    second: Ent Hurt _0
+  - first:
+      213: -3450374925999686032
+    second: Ent Hurt _1
+  - first:
+      213: 8765871771708453268
+    second: Ent Hurt _2
+  - first:
+      213: -4660996810695971374
+    second: Ent Hurt _3
+  - first:
+      213: -6720841873293121265
+    second: Ent Hurt _4
+  - first:
+      213: -6721315368006374376
+    second: Ent Hurt _5
+  - first:
+      213: -3835818188709755793
+    second: Ent Hurt _6
+  - first:
+      213: 9196594349899222849
+    second: Ent Hurt _7
+  - first:
+      213: -5082227164529032604
+    second: Ent Hurt _8
+  - first:
+      213: 8923645795283331218
+    second: Ent Hurt _9
+  - first:
+      213: -5182492344826906304
+    second: Ent Hurt _10
+  - first:
+      213: -5790298832754160567
+    second: Ent Hurt _11
+  - first:
+      213: -6408176002436670701
+    second: Ent Hurt _12
+  - first:
+      213: -2713767793330001291
+    second: Ent Hurt _13
+  - first:
+      213: 3570385077426518165
+    second: Ent Hurt _14
+  - first:
+      213: 4649520768729517656
+    second: Ent Hurt _15
+  - first:
+      213: 517487999615574282
+    second: Ent Hurt _16
+  - first:
+      213: 2038666031346136141
+    second: Ent Hurt _17
+  - first:
+      213: 2035687029843931901
+    second: Ent Hurt _18
+  - first:
+      213: 1393425911575719422
+    second: Ent Hurt _19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ent Hurt _0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1672
+        width: 310
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6933e91649ad33e20800000000000000
+      internalID: 3329244880384701334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Hurt _1
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1672
+        width: 310
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ebfd1294ecd10d0800000000000000
+      internalID: -3450374925999686032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Hurt _2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1673
+        width: 312
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4917e4bcee1a6a970800000000000000
+      internalID: 8765871771708453268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Hurt _3
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1673
+        width: 313
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddec3f7810d05fb0800000000000000
+      internalID: -4660996810695971374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Hurt _4
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1673
+        width: 315
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09eacebce5cab2a0800000000000000
+      internalID: -6720841873293121265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Hurt _5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1126
+        width: 314
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c2b9aa84719b2a0800000000000000
+      internalID: -6721315368006374376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Hurt _6
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1126
+        width: 314
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6409fe2eaf64cac0800000000000000
+      internalID: -3835818188709755793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Hurt _7
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1126
+        width: 315
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f8b19e5ddd0af70800000000000000
+      internalID: 9196594349899222849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Hurt _8
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1127
+        width: 316
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4620866125d4879b0800000000000000
+      internalID: -5082227164529032604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Hurt _9
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 1126
+        width: 312
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2986541429827db70800000000000000
+      internalID: 8923645795283331218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Hurt _10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 582
+        width: 316
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049396f9ba61418b0800000000000000
+      internalID: -5182492344826906304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Hurt _11
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 582
+        width: 316
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c4452d3e9b4afa0800000000000000
+      internalID: -5790298832754160567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Hurt _12
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 582
+        width: 317
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b5494b0e59117a0800000000000000
+      internalID: -6408176002436670701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Hurt _13
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 582
+        width: 316
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a6ba3f192c65ad0800000000000000
+      internalID: -2713767793330001291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Hurt _14
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 581
+        width: 312
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598fc5baf4e8c8130800000000000000
+      internalID: 3570385077426518165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Hurt _15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 35
+        width: 316
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e8ce3418a668040800000000000000
+      internalID: 4649520768729517656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Hurt _16
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 35
+        width: 316
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a012d98089c7e2700800000000000000
+      internalID: 517487999615574282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Hurt _17
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 34
+        width: 315
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44ba0644fbca4c10800000000000000
+      internalID: 2038666031346136141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Hurt _18
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 34
+        width: 314
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2b7bf6196304c10800000000000000
+      internalID: 2035687029843931901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Hurt _19
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 34
+        width: 310
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdab40eb71765310800000000000000
+      internalID: 1393425911575719422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

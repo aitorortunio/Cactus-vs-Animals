@@ -1,0 +1,692 @@
+fileFormatVersion: 2
+guid: 5d5f2c858bec44cd0a4be56078785e17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -141413662030118278
+    second: Orc Walk_0
+  - first:
+      213: 8391848931790941802
+    second: Orc Walk_1
+  - first:
+      213: 4744644681467863083
+    second: Orc Walk_2
+  - first:
+      213: 6005767994235953186
+    second: Orc Walk_3
+  - first:
+      213: -6277013550641730774
+    second: Orc Walk_4
+  - first:
+      213: -5398913280957961994
+    second: Orc Walk_5
+  - first:
+      213: 6553253773379384521
+    second: Orc Walk_6
+  - first:
+      213: -3670326964731462655
+    second: Orc Walk_7
+  - first:
+      213: -7758060483696177770
+    second: Orc Walk_8
+  - first:
+      213: -3438506676870675266
+    second: Orc Walk_9
+  - first:
+      213: 8621506158833927612
+    second: Orc Walk_10
+  - first:
+      213: -7201320255164162823
+    second: Orc Walk_11
+  - first:
+      213: -7556788802622637154
+    second: Orc Walk_12
+  - first:
+      213: 8315275323543332851
+    second: Orc Walk_13
+  - first:
+      213: -8921835976172160221
+    second: Orc Walk_14
+  - first:
+      213: 4209844651965379665
+    second: Orc Walk_15
+  - first:
+      213: -378774229282337647
+    second: Orc Walk_16
+  - first:
+      213: 60662275086129916
+    second: Orc Walk_17
+  - first:
+      213: -9039437357729735267
+    second: Orc Walk_18
+  - first:
+      213: -8325982447944553781
+    second: Orc Walk_19
+  - first:
+      213: 4353916783214625711
+    second: Orc Walk_20
+  - first:
+      213: 4460711680328941005
+    second: Orc Walk_21
+  - first:
+      213: 7840917042892443377
+    second: Orc Walk_22
+  - first:
+      213: -8523398066641760530
+    second: Orc Walk_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orc Walk_0
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3787
+        width: 391
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72ce4c0609990ef0800000000000000
+      internalID: -141413662030118278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_1
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 3789
+        width: 391
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ee32c3426d57470800000000000000
+      internalID: 8391848931790941802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_2
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 3789
+        width: 391
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20a658133d58d140800000000000000
+      internalID: 4744644681467863083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_3
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 3791
+        width: 388
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22028dbbb26c85350800000000000000
+      internalID: 6005767994235953186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_4
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 3789
+        width: 386
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bafa7ce6193e8a0800000000000000
+      internalID: -6277013550641730774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2883
+        width: 388
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8ac53c9f43315b0800000000000000
+      internalID: -5398913280957961994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_6
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 2883
+        width: 387
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c434451695d1fa50800000000000000
+      internalID: 6553253773379384521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_7
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2883
+        width: 384
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cb4a16211601dc0800000000000000
+      internalID: -3670326964731462655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_8
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 2883
+        width: 385
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d4b431815d55490800000000000000
+      internalID: -7758060483696177770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_9
+      rect:
+        serializedVersion: 2
+        x: 3925
+        y: 2880
+        width: 384
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb480573568f740d0800000000000000
+      internalID: -3438506676870675266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1972
+        width: 384
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5832a3c2eb5a770800000000000000
+      internalID: 8621506158833927612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_11
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1970
+        width: 384
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc5d15d165cf0c90800000000000000
+      internalID: -7201320255164162823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_12
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 1967
+        width: 387
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b37012f94e02790800000000000000
+      internalID: -7556788802622637154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_13
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 1967
+        width: 388
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f72f5db9dac56370800000000000000
+      internalID: 8315275323543332851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_14
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 1970
+        width: 384
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b35f713754f2480800000000000000
+      internalID: -8921835976172160221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1054
+        width: 390
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15479fff76f5c6a30800000000000000
+      internalID: 4209844651965379665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_16
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1054
+        width: 391
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ccd8568d25ebaf0800000000000000
+      internalID: -378774229282337647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_17
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 1056
+        width: 391
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa96cd840487d000800000000000000
+      internalID: 60662275086129916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_18
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 1058
+        width: 390
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d9f1bbd977d8280800000000000000
+      internalID: -9039437357729735267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_19
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 1061
+        width: 382
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaa028931b247c80800000000000000
+      internalID: -8325982447944553781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_20
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 150
+        width: 382
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa38e1d0f383c6c30800000000000000
+      internalID: 4353916783214625711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_21
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 150
+        width: 385
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd317fa3a1a7ed30800000000000000
+      internalID: 4460711680328941005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_22
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 150
+        width: 386
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe09eee18880dc60800000000000000
+      internalID: 7840917042892443377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Walk_23
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 148
+        width: 389
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee01960e9ec6b980800000000000000
+      internalID: -8523398066641760530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

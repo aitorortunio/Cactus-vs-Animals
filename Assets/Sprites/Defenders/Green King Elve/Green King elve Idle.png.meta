@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: fa2951204819949aea75de26bf2fd688
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3102948382511277014
+    second: Green King elve Idle_0
+  - first:
+      213: -6750908931655795391
+    second: Green King elve Idle_1
+  - first:
+      213: 7158395459308066623
+    second: Green King elve Idle_2
+  - first:
+      213: 8513705591917033003
+    second: Green King elve Idle_3
+  - first:
+      213: -4887493490003926352
+    second: Green King elve Idle_4
+  - first:
+      213: -3925491599849010916
+    second: Green King elve Idle_5
+  - first:
+      213: -8145582327371003008
+    second: Green King elve Idle_6
+  - first:
+      213: -2737634711058514963
+    second: Green King elve Idle_7
+  - first:
+      213: -3970066815478454465
+    second: Green King elve Idle_8
+  - first:
+      213: -6986626762533577457
+    second: Green King elve Idle_9
+  - first:
+      213: -5936282380411340899
+    second: Green King elve Idle_10
+  - first:
+      213: -8244456849443883145
+    second: Green King elve Idle_11
+  - first:
+      213: -6676516340165741458
+    second: Green King elve Idle_12
+  - first:
+      213: 9185181224996391473
+    second: Green King elve Idle_13
+  - first:
+      213: 6929787384752865364
+    second: Green King elve Idle_14
+  - first:
+      213: -5632624032031515512
+    second: Green King elve Idle_15
+  - first:
+      213: 5209313231590370080
+    second: Green King elve Idle_16
+  - first:
+      213: 4442080687642293227
+    second: Green King elve Idle_17
+  - first:
+      213: 8671357822663481705
+    second: Green King elve Idle_18
+  - first:
+      213: -6207229326693435419
+    second: Green King elve Idle_19
+  - first:
+      213: 3393091524167915346
+    second: Green King elve Idle_0
+  - first:
+      213: 5777884367713480699
+    second: Green King elve Idle_1
+  - first:
+      213: -3400618803845437941
+    second: Green King elve Idle_2
+  - first:
+      213: -308086993439461171
+    second: Green King elve Idle_3
+  - first:
+      213: 5781288706251500838
+    second: Green King elve Idle_4
+  - first:
+      213: 809087478771781702
+    second: Green King elve Idle_5
+  - first:
+      213: 8899661525113326069
+    second: Green King elve Idle_6
+  - first:
+      213: 6788414798243695326
+    second: Green King elve Idle_7
+  - first:
+      213: 5799375915470154229
+    second: Green King elve Idle_8
+  - first:
+      213: 2791477903978264858
+    second: Green King elve Idle_9
+  - first:
+      213: 5589540233860585867
+    second: Green King elve Idle_10
+  - first:
+      213: 3148372939113565099
+    second: Green King elve Idle_11
+  - first:
+      213: -5805948478706291046
+    second: Green King elve Idle_12
+  - first:
+      213: 1122581075707053781
+    second: Green King elve Idle_13
+  - first:
+      213: 6134918808375579879
+    second: Green King elve Idle_14
+  - first:
+      213: 4324503941050162593
+    second: Green King elve Idle_15
+  - first:
+      213: -5419333053265460870
+    second: Green King elve Idle_16
+  - first:
+      213: 2217947858951724649
+    second: Green King elve Idle_17
+  - first:
+      213: 7196200676157544862
+    second: Green King elve Idle_18
+  - first:
+      213: -8973454479110976181
+    second: Green King elve Idle_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green King elve Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 407
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257da6c83cea61f20800000000000000
+      internalID: 3393091524167915346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green King elve Idle_1
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1344
+        width: 407
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff28da483b2f2050800000000000000
+      internalID: 5777884367713480699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green King elve Idle_2
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1344
+        width: 407
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06674417339ec0d0800000000000000
+      internalID: -3400618803845437941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green King elve Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1344
+        width: 407
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc07f14038479bbf0800000000000000
+      internalID: -308086993439461171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green King elve Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1344
+        width: 407
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d2910a2734b3050800000000000000
+      internalID: 5781288706251500838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green King elve Idle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 407
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640986476c47a3b00800000000000000
+      internalID: 809087478771781702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green King elve Idle_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 896
+        width: 407
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f947913103f18b70800000000000000
+      internalID: 8899661525113326069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green King elve Idle_7
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 896
+        width: 407
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda025dda4b453e50800000000000000
+      internalID: 6788414798243695326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green King elve Idle_8
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 896
+        width: 407
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9ed803ba58b7050800000000000000
+      internalID: 5799375915470154229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green King elve Idle_9
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 896
+        width: 407
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19f9f02d525db620800000000000000
+      internalID: 2791477903978264858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green King elve Idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 407
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8993016a39029d40800000000000000
+      internalID: 5589540233860585867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green King elve Idle_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 448
+        width: 407
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab0150e18441bb20800000000000000
+      internalID: 3148372939113565099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green King elve Idle_12
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 448
+        width: 407
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eed7eae902d6fa0800000000000000
+      internalID: -5805948478706291046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green King elve Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 448
+        width: 407
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d648196a85349f00800000000000000
+      internalID: 1122581075707053781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green King elve Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 448
+        width: 407
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4d61be62c932550800000000000000
+      internalID: 6134918808375579879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green King elve Idle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 407
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad52141c69b30c30800000000000000
+      internalID: 4324503941050162593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green King elve Idle_16
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 407
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7144980d49aac4b0800000000000000
+      internalID: -5419333053265460870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green King elve Idle_17
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 0
+        width: 407
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ed72793dbb7ce10800000000000000
+      internalID: 2217947858951724649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green King elve Idle_18
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 0
+        width: 407
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99dbca436a0ed360800000000000000
+      internalID: 7196200676157544862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green King elve Idle_19
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 0
+        width: 407
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dc374d1b2e77380800000000000000
+      internalID: -8973454479110976181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

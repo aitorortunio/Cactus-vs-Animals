@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5194267629343844993}
+  - component: {fileID: 4058831986303816299}
   m_Layer: 0
   m_Name: Spawner
   m_TagString: Untagged
@@ -30,3 +31,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4058831986303816299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5194267629343844992}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82c70a25f375a4fe88a9895612ed727d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  minSpawnDelay: 8
+  maxSpawnDelay: 12
+  attackerPrefab1: {fileID: 4482382575042750271, guid: b0c16e2ce724145578af3e43ac9cf891,
+    type: 3}
+  attackerPrefab2: {fileID: 1793239396469381345, guid: 8a139cb060f0a478ea0690cd7c1b40e7,
+    type: 3}
+  attackerPrefab3: {fileID: 137442502751429089, guid: f6a48cc999ddd46ee92387d709ad2705,
+    type: 3}
+  attackerPrefab4: {fileID: -2430764761269473912, guid: 52d1ac894fcd740cda4c043187216fe7,
+    type: 3}
+  attackerPrefab5: {fileID: 2741650383590893311, guid: dcc7ef26721334e738f24af2cfd3f767,
+    type: 3}
+  attackerPrefab6: {fileID: 2150171603048816482, guid: 7be22aa1ec218400bbb4814d8c845f28,
+    type: 3}

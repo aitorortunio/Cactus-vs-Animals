@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: 0bba00587e7ba40799dafc4c0c90153c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6465133881394605603
+    second: White King Elve_0
+  - first:
+      213: 1763858711523616704
+    second: White King Elve_1
+  - first:
+      213: 8489622734811778201
+    second: White King Elve_2
+  - first:
+      213: -6993064931766283707
+    second: White King Elve_3
+  - first:
+      213: 2247410804888933741
+    second: White King Elve_4
+  - first:
+      213: 4927304500399309876
+    second: White King Elve_5
+  - first:
+      213: -2755325767395566977
+    second: White King Elve_6
+  - first:
+      213: 7898339627642238101
+    second: White King Elve_7
+  - first:
+      213: -6916593245099338428
+    second: White King Elve_8
+  - first:
+      213: 7832674411058771273
+    second: White King Elve_9
+  - first:
+      213: -4889294889548416374
+    second: White King Elve_10
+  - first:
+      213: -1452551234270767134
+    second: White King Elve_11
+  - first:
+      213: 3863676844323379785
+    second: White King Elve_12
+  - first:
+      213: 9016539311055352112
+    second: White King Elve_13
+  - first:
+      213: 1651474204881257257
+    second: White King Elve_14
+  - first:
+      213: 3362669947966220730
+    second: White King Elve_15
+  - first:
+      213: 1142074142994561483
+    second: White King Elve_16
+  - first:
+      213: 1623610421188165826
+    second: White King Elve_17
+  - first:
+      213: 5314574002717469174
+    second: White King Elve_18
+  - first:
+      213: -3540539037319556761
+    second: White King Elve_19
+  - first:
+      213: -1017772765625560267
+    second: White King Elve_0
+  - first:
+      213: 6594932856663764092
+    second: White King Elve_1
+  - first:
+      213: -1339989966745001167
+    second: White King Elve_2
+  - first:
+      213: -4891692779114672451
+    second: White King Elve_3
+  - first:
+      213: -1664790519004964200
+    second: White King Elve_4
+  - first:
+      213: -6480658485923048941
+    second: White King Elve_5
+  - first:
+      213: 6860244733412685357
+    second: White King Elve_6
+  - first:
+      213: 4275064775942884390
+    second: White King Elve_7
+  - first:
+      213: 7518344430362328819
+    second: White King Elve_8
+  - first:
+      213: 761613674949690239
+    second: White King Elve_9
+  - first:
+      213: -1431503271919658148
+    second: White King Elve_10
+  - first:
+      213: 541067851160914076
+    second: White King Elve_11
+  - first:
+      213: 709401535100262292
+    second: White King Elve_12
+  - first:
+      213: -4565599196373594415
+    second: White King Elve_13
+  - first:
+      213: -5339120570325647059
+    second: White King Elve_14
+  - first:
+      213: -3557451597559635992
+    second: White King Elve_15
+  - first:
+      213: 3343005726256989728
+    second: White King Elve_16
+  - first:
+      213: -372766042378054722
+    second: White King Elve_17
+  - first:
+      213: 8415369084852783395
+    second: White King Elve_18
+  - first:
+      213: -5922369179187037589
+    second: White King Elve_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: White King Elve_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 351
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53352d2ef0520e1f0800000000000000
+      internalID: -1017772765625560267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White King Elve_1
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1260
+        width: 351
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ceefedd78e58b50800000000000000
+      internalID: 6594932856663764092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White King Elve_2
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1260
+        width: 351
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133a39d8936676de0800000000000000
+      internalID: -1339989966745001167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White King Elve_3
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1260
+        width: 351
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbec68ea5573d1cb0800000000000000
+      internalID: -4891692779114672451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White King Elve_4
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1260
+        width: 351
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a5549e7d975e8e0800000000000000
+      internalID: -1664790519004964200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White King Elve_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 351
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3129feb61731016a0800000000000000
+      internalID: -6480658485923048941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White King Elve_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 840
+        width: 351
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26be47ec3c743f50800000000000000
+      internalID: 6860244733412685357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White King Elve_7
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 840
+        width: 351
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c4cd173c4145b30800000000000000
+      internalID: 4275064775942884390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White King Elve_8
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 840
+        width: 351
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe78ceec66865860800000000000000
+      internalID: 7518344430362328819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White King Elve_9
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 840
+        width: 351
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73c4772a9bc19a00800000000000000
+      internalID: 761613674949690239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White King Elve_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 351
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b5b6ecb57422ce0800000000000000
+      internalID: -1431503271919658148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White King Elve_11
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 420
+        width: 351
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9884db0852428700800000000000000
+      internalID: 541067851160914076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White King Elve_12
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 420
+        width: 351
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49794c600fc48d900800000000000000
+      internalID: 709401535100262292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White King Elve_13
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 420
+        width: 351
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dec75178bbb3a0c0800000000000000
+      internalID: -4565599196373594415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White King Elve_14
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 420
+        width: 351
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2142c01122a7e5b0800000000000000
+      internalID: -5339120570325647059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White King Elve_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 351
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efdfc5ce9461aec0800000000000000
+      internalID: -3557451597559635992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White King Elve_16
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 351
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02605abfefdb46e20800000000000000
+      internalID: 3343005726256989728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White King Elve_17
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 0
+        width: 351
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb35abb624ba3daf0800000000000000
+      internalID: -372766042378054722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White King Elve_18
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 0
+        width: 351
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329447c989569c470800000000000000
+      internalID: 8415369084852783395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White King Elve_19
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 0
+        width: 351
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ab5dd0c948fcda0800000000000000
+      internalID: -5922369179187037589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

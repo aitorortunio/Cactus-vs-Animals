@@ -1,0 +1,668 @@
+fileFormatVersion: 2
+guid: e42544906e1eb49efaafe6e3a63b8f74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Purple Elve idle_0
+  - first:
+      213: 21300002
+    second: Purple Elve idle_1
+  - first:
+      213: 21300004
+    second: Purple Elve idle_2
+  - first:
+      213: 21300006
+    second: Purple Elve idle_3
+  - first:
+      213: 21300008
+    second: Purple Elve idle_4
+  - first:
+      213: 21300010
+    second: Purple Elve idle_5
+  - first:
+      213: 21300012
+    second: Purple Elve idle_6
+  - first:
+      213: 21300014
+    second: Purple Elve idle_7
+  - first:
+      213: 21300016
+    second: Purple Elve idle_8
+  - first:
+      213: 21300018
+    second: Purple Elve idle_9
+  - first:
+      213: 21300020
+    second: Purple Elve idle_10
+  - first:
+      213: 21300022
+    second: Purple Elve idle_11
+  - first:
+      213: 21300024
+    second: Purple Elve idle_12
+  - first:
+      213: 21300026
+    second: Purple Elve idle_13
+  - first:
+      213: 21300028
+    second: Purple Elve idle_14
+  - first:
+      213: 21300030
+    second: Purple Elve idle_15
+  - first:
+      213: 21300032
+    second: Purple Elve idle_16
+  - first:
+      213: 21300034
+    second: Purple Elve idle_17
+  - first:
+      213: 21300036
+    second: Purple Elve idle_18
+  - first:
+      213: 21300038
+    second: Purple Elve idle_19
+  - first:
+      213: -5236518283359170651
+    second: Purple Elve idle_0
+  - first:
+      213: 2063572223124989459
+    second: Purple Elve idle_1
+  - first:
+      213: -1048151900249716709
+    second: Purple Elve idle_2
+  - first:
+      213: -8191034792589377948
+    second: Purple Elve idle_3
+  - first:
+      213: -7247732351362418199
+    second: Purple Elve idle_4
+  - first:
+      213: -6774372301862849172
+    second: Purple Elve idle_5
+  - first:
+      213: -8059853957616471353
+    second: Purple Elve idle_6
+  - first:
+      213: 4383686118576011786
+    second: Purple Elve idle_7
+  - first:
+      213: 5957755089584986013
+    second: Purple Elve idle_8
+  - first:
+      213: 6924251775713188958
+    second: Purple Elve idle_9
+  - first:
+      213: 679484453020722356
+    second: Purple Elve idle_10
+  - first:
+      213: -5251978670775438508
+    second: Purple Elve idle_11
+  - first:
+      213: -6717436967257802847
+    second: Purple Elve idle_12
+  - first:
+      213: -5035487618210610005
+    second: Purple Elve idle_13
+  - first:
+      213: 8591383017133069511
+    second: Purple Elve idle_14
+  - first:
+      213: 1684932788819536432
+    second: Purple Elve idle_15
+  - first:
+      213: 5138103215889712708
+    second: Purple Elve idle_16
+  - first:
+      213: 3570975226343786678
+    second: Purple Elve idle_17
+  - first:
+      213: 4520643967620653923
+    second: Purple Elve idle_18
+  - first:
+      213: 3288792375175268417
+    second: Purple Elve idle_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Purple Elve idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1071
+        width: 287
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afc9849d562457b0800000000000000
+      internalID: -5236518283359170651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Elve idle_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1071
+        width: 287
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3166abfe00843ac10800000000000000
+      internalID: 2063572223124989459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Elve idle_2
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1071
+        width: 287
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1807fa66673471f0800000000000000
+      internalID: -1048151900249716709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Elve idle_3
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1071
+        width: 287
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e38dc0149935e80800000000000000
+      internalID: -8191034792589377948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Elve idle_4
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1071
+        width: 287
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9bfe993d1ea6b90800000000000000
+      internalID: -7247732351362418199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Elve idle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 287
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65383b98489cf1a0800000000000000
+      internalID: -6774372301862849172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Elve idle_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 714
+        width: 287
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c27eba4785a52090800000000000000
+      internalID: -8059853957616471353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Elve idle_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 714
+        width: 287
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ab8809c4bf5dc30800000000000000
+      internalID: 4383686118576011786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Elve idle_8
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 714
+        width: 287
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d971d7d30b23ea250800000000000000
+      internalID: 5957755089584986013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Elve idle_9
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 714
+        width: 287
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c90c2cd42e71060800000000000000
+      internalID: 6924251775713188958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Elve idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 287
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b463bc82830e6900800000000000000
+      internalID: 679484453020722356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Elve idle_11
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 357
+        width: 287
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4537080a9393d17b0800000000000000
+      internalID: -5251978670775438508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Elve idle_12
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 357
+        width: 287
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a775853baed6c2a0800000000000000
+      internalID: -6717436967257802847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Elve idle_13
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 357
+        width: 287
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4cdadb0ba5e1ab0800000000000000
+      internalID: -5035487618210610005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Elve idle_14
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 357
+        width: 287
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c45a81c559ba3770800000000000000
+      internalID: 8591383017133069511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Elve idle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 287
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a2ffbb175126710800000000000000
+      internalID: 1684932788819536432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Elve idle_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 287
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446066ae6a53e4740800000000000000
+      internalID: 5138103215889712708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Elve idle_17
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 287
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b801fb6c07ae8130800000000000000
+      internalID: 3570975226343786678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Elve idle_18
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 0
+        width: 287
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363aa06bcbd8cbe30800000000000000
+      internalID: 4520643967620653923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Elve idle_19
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 0
+        width: 287
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148c55e8d3324ad20800000000000000
+      internalID: 3288792375175268417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 244192695dc6e4c459014814dddc1d99
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

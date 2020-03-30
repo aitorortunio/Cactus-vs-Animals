@@ -5,7 +5,17 @@ using UnityEngine;
 public class Projectile : MonoBehaviour
 {
     [Range(0f, 10f)] [SerializeField] float speed = 5f;
+    [SerializeField] bool slowEnemy;
+    [SerializeField] float howSlow;
     [SerializeField] float damage = 50;
+
+    IEnumerator Start()
+    {
+        {
+            yield return new WaitForSeconds(2f);
+            Destroy(gameObject);
+        }
+    }
 
     // Update is called once per frame
     void Update()
@@ -20,6 +30,10 @@ public class Projectile : MonoBehaviour
 
         if(attacker && health)
         {
+            if (slowEnemy)
+            {
+                attacker.slow(howSlow);
+            }
             health.DealDamage(damage);
             Destroy(gameObject);
         }

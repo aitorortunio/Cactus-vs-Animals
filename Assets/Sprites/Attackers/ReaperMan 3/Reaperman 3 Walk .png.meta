@@ -1,0 +1,692 @@
+fileFormatVersion: 2
+guid: 5048a5698d6f84fcfb0f2bde001e2706
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8614717849810252662
+    second: Reaperman 3 Walk _0
+  - first:
+      213: 9133517206103674226
+    second: Reaperman 3 Walk _1
+  - first:
+      213: -584150353345951644
+    second: Reaperman 3 Walk _2
+  - first:
+      213: 7527812515636085084
+    second: Reaperman 3 Walk _3
+  - first:
+      213: -5173381720124630547
+    second: Reaperman 3 Walk _4
+  - first:
+      213: -7859927941813550722
+    second: Reaperman 3 Walk _5
+  - first:
+      213: 2742261421803010135
+    second: Reaperman 3 Walk _6
+  - first:
+      213: 4745743314864562041
+    second: Reaperman 3 Walk _7
+  - first:
+      213: 1793288068757862799
+    second: Reaperman 3 Walk _8
+  - first:
+      213: -6970846412004466985
+    second: Reaperman 3 Walk _9
+  - first:
+      213: -2092394302030609897
+    second: Reaperman 3 Walk _10
+  - first:
+      213: 7687909098158036781
+    second: Reaperman 3 Walk _11
+  - first:
+      213: -3866762014337417642
+    second: Reaperman 3 Walk _12
+  - first:
+      213: 6822795143038930516
+    second: Reaperman 3 Walk _13
+  - first:
+      213: 6379004051161312740
+    second: Reaperman 3 Walk _14
+  - first:
+      213: -613784235720218143
+    second: Reaperman 3 Walk _15
+  - first:
+      213: -157200246644805664
+    second: Reaperman 3 Walk _16
+  - first:
+      213: 2461004657340812497
+    second: Reaperman 3 Walk _17
+  - first:
+      213: -5586378213699170730
+    second: Reaperman 3 Walk _18
+  - first:
+      213: -7630730135772681158
+    second: Reaperman 3 Walk _19
+  - first:
+      213: 6216894391860543483
+    second: Reaperman 3 Walk _20
+  - first:
+      213: -6958392272269673309
+    second: Reaperman 3 Walk _21
+  - first:
+      213: -2163213252135533119
+    second: Reaperman 3 Walk _22
+  - first:
+      213: -1585662163967168102
+    second: Reaperman 3 Walk _23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _0
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3789
+        width: 438
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673382edd30ad8770800000000000000
+      internalID: 8614717849810252662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _1
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 3789
+        width: 435
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d4abbe185c0ce70800000000000000
+      internalID: 9133517206103674226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _2
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 3789
+        width: 435
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468456d395ea4e7f0800000000000000
+      internalID: -584150353345951644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _3
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 3791
+        width: 436
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c518a325999287860800000000000000
+      internalID: 7527812515636085084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _4
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 3789
+        width: 436
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9d87c3cb47438b0800000000000000
+      internalID: -5173381720124630547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2883
+        width: 436
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71490c3e2debe290800000000000000
+      internalID: -7859927941813550722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _6
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 2883
+        width: 435
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75873d7eb387e0620800000000000000
+      internalID: 2742261421803010135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _7
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 2883
+        width: 433
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fdfad96644cd140800000000000000
+      internalID: 4745743314864562041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _8
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 2883
+        width: 433
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89324e4ff903e810800000000000000
+      internalID: 1793288068757862799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _9
+      rect:
+        serializedVersion: 2
+        x: 3887
+        y: 2880
+        width: 435
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dedaa41f14924f90800000000000000
+      internalID: -6970846412004466985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _10
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1972
+        width: 434
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7120a61e77256f2e0800000000000000
+      internalID: -2092394302030609897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _11
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1970
+        width: 434
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27143da790f0ba60800000000000000
+      internalID: 7687909098158036781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _12
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 1967
+        width: 435
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65eb1785f60865ac0800000000000000
+      internalID: -3866762014337417642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _13
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 1967
+        width: 435
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e881ca8007fae50800000000000000
+      internalID: 6822795143038930516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _14
+      rect:
+        serializedVersion: 2
+        x: 3894
+        y: 1972
+        width: 433
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed6f3a1366c68850800000000000000
+      internalID: 6379004051161312740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1054
+        width: 436
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e969255d766b77f0800000000000000
+      internalID: -613784235720218143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _16
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1054
+        width: 435
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efe124653381ddf0800000000000000
+      internalID: -157200246644805664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _17
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1056
+        width: 435
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc816762be372220800000000000000
+      internalID: 2461004657340812497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _18
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 1059
+        width: 435
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65eca7fcc923972b0800000000000000
+      internalID: -5586378213699170730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _19
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 1061
+        width: 433
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ca660fe533a1690800000000000000
+      internalID: -7630730135772681158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _20
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 152
+        width: 434
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff37f8c288d64650800000000000000
+      internalID: 6216894391860543483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _21
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 150
+        width: 433
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acfa837813de6f90800000000000000
+      internalID: -6958392272269673309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _22
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 150
+        width: 435
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c54b052209baf1e0800000000000000
+      internalID: -2163213252135533119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaperman 3 Walk _23
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 149
+        width: 436
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91b5feb9a89ef9e0800000000000000
+      internalID: -1585662163967168102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

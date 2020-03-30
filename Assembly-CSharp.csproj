@@ -2,8 +2,6 @@
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <LangVersion>latest</LangVersion>
-    <CscToolPath>/Applications/Unity/Hub/Editor/2019.3.6f1/Unity.app/Contents/Tools/RoslynScripts</CscToolPath>
-    <CscToolExe>unity_csc.sh</CscToolExe>
   </PropertyGroup>
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -11,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C91EF56B-4367-D516-FDCD-6305E226BDDA}</ProjectGuid>
+    <ProjectGuid>{BF888A70-572D-CA02-6189-9552E87BF096}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -54,6 +52,9 @@
     <UnityVersion>2019.3.6f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
+  </ItemGroup>
+  <ItemGroup>
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2019.3.6f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -62,73 +63,82 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Attacker.cs" />
-    <Compile Include="Assets\Scripts\CoinsDisplay.cs" />
-    <Compile Include="Assets\Scripts\Defender.cs" />
-    <Compile Include="Assets\Scripts\DefenderButton.cs" />
-    <Compile Include="Assets\Scripts\DefenderSpawner.cs" />
+    <Compile Include="Assets\Scripts\Attackers\Attacker.cs" />
+    <Compile Include="Assets\Scripts\Attackers\AttackerSpawner.cs" />
+    <Compile Include="Assets\Scripts\Attackers\Goblin.cs" />
+    <Compile Include="Assets\Scripts\Attackers\GreenTroll.cs" />
+    <Compile Include="Assets\Scripts\Attackers\Ogre.cs" />
+    <Compile Include="Assets\Scripts\Attackers\Orc.cs" />
+    <Compile Include="Assets\Scripts\Attackers\ReaperMan1.cs" />
+    <Compile Include="Assets\Scripts\Attackers\ReaperMan2.cs" />
+    <Compile Include="Assets\Scripts\Attackers\ReaperMan3.cs" />
+    <Compile Include="Assets\Scripts\Coin\Coin.cs" />
+    <Compile Include="Assets\Scripts\Coin\CoinsDisplay.cs" />
+    <Compile Include="Assets\Scripts\Coin\CoinsSpawner.cs" />
+    <Compile Include="Assets\Scripts\Defenders\Defender.cs" />
+    <Compile Include="Assets\Scripts\Defenders\DefenderButton.cs" />
+    <Compile Include="Assets\Scripts\Defenders\DefenderSpawner.cs" />
     <Compile Include="Assets\Scripts\Health.cs" />
     <Compile Include="Assets\Scripts\LevelLoader.cs" />
     <Compile Include="Assets\Scripts\Projectile.cs" />
     <Compile Include="Assets\Scripts\Shooter.cs" />
     <Compile Include="Assets\Scripts\Shredder.cs" />
-    <Compile Include="Assets\Scripts\Spawner.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Prueba/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Editor">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Prueba/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Prueba/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Prueba/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Prueba/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Prueba/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Prueba/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-weaver.Editor">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Prueba/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Prueba/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Prueba/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Prueba/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Prueba/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Prueba/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Prueba/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Prueba/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Prueba/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Prueba/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Prueba/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-hlapi.Runtime">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Prueba/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2019.3.6f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -308,13 +318,13 @@
       <HintPath>/Applications/Unity/Hub/Editor/2019.3.6f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Prueba/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Prueba/Library/PackageCache/com.unity.analytics@3.3.5/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Elves vs Orcs/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>/Users/aitorortunio/Documents/GitHub/Unity/Prueba/Library/PackageCache/com.unity.analytics@3.3.5/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>/Applications/Unity/Hub/Editor/2019.3.6f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

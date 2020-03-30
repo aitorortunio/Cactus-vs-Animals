@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 1d6a91abcee47440484e42e1844814d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1784783218690845225
+    second: Ent Idle_0
+  - first:
+      213: -80439424568506458
+    second: Ent Idle_1
+  - first:
+      213: -9088426510767867654
+    second: Ent Idle_2
+  - first:
+      213: -2568959846518676555
+    second: Ent Idle_3
+  - first:
+      213: 5641155979026935814
+    second: Ent Idle_4
+  - first:
+      213: -4749915705320491445
+    second: Ent Idle_5
+  - first:
+      213: 8669290678898274629
+    second: Ent Idle_6
+  - first:
+      213: -2906008972023841517
+    second: Ent Idle_7
+  - first:
+      213: -7037477366715054633
+    second: Ent Idle_8
+  - first:
+      213: 5674160582334084970
+    second: Ent Idle_9
+  - first:
+      213: 7083475786401075855
+    second: Ent Idle_10
+  - first:
+      213: -7088876399913665788
+    second: Ent Idle_11
+  - first:
+      213: -3210683138323427017
+    second: Ent Idle_12
+  - first:
+      213: 542868364236243595
+    second: Ent Idle_13
+  - first:
+      213: 151385909887233836
+    second: Ent Idle_14
+  - first:
+      213: -7698683100419038442
+    second: Ent Idle_15
+  - first:
+      213: 7496646163385216388
+    second: Ent Idle_16
+  - first:
+      213: 4801494595852310937
+    second: Ent Idle_17
+  - first:
+      213: 4169180934511044251
+    second: Ent Idle_18
+  - first:
+      213: -937978324308381208
+    second: Ent Idle_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ent Idle_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1672
+        width: 310
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a652791e2d4c810800000000000000
+      internalID: 1784783218690845225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Idle_1
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1672
+        width: 310
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a748a005c832eef0800000000000000
+      internalID: -80439424568506458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1672
+        width: 309
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af83072bd3c6fd180800000000000000
+      internalID: -9088426510767867654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1672
+        width: 309
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3230a61a8395cd0800000000000000
+      internalID: -2568959846518676555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 1672
+        width: 310
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600b87c8979694e40800000000000000
+      internalID: 5641155979026935814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Idle_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1126
+        width: 310
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46b25705d8e41eb0800000000000000
+      internalID: -4749915705320491445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Idle_6
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1126
+        width: 310
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541365ac0f18f4870800000000000000
+      internalID: 8669290678898274629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1126
+        width: 309
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dbb649c38cba7d0800000000000000
+      internalID: -2906008972023841517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Idle_8
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1126
+        width: 309
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d509120f9bd55e90800000000000000
+      internalID: -7037477366715054633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Idle_9
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 1126
+        width: 310
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67fb849cfaaebe40800000000000000
+      internalID: 5674160582334084970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Idle_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 580
+        width: 310
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f825487a2bf8d4260800000000000000
+      internalID: 7083475786401075855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Idle_11
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 580
+        width: 310
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bfe7609704f9d90800000000000000
+      internalID: -7088876399913665788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Idle_12
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 580
+        width: 309
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73155e552bc5173d0800000000000000
+      internalID: -3210683138323427017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 580
+        width: 309
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82491aa6e7a88700800000000000000
+      internalID: 542868364236243595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Idle_14
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 580
+        width: 310
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fe3d6dea4d91200800000000000000
+      internalID: 151385909887233836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Idle_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 34
+        width: 310
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61368317288c82590800000000000000
+      internalID: -7698683100419038442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Idle_16
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 34
+        width: 310
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dee5777ff690860800000000000000
+      internalID: 7496646163385216388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Idle_17
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 34
+        width: 309
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9991cb045e552a240800000000000000
+      internalID: 4801494595852310937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Idle_18
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 34
+        width: 309
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96acdd78f7ebd930800000000000000
+      internalID: 4169180934511044251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ent Idle_19
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 34
+        width: 310
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e135940fa1abf2f0800000000000000
+      internalID: -937978324308381208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
