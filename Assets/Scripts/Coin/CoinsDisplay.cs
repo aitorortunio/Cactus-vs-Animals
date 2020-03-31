@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class CoinsDisplay : MonoBehaviour
 {
     [SerializeField] int coins = 100;
+    [SerializeField] AudioClip sound;
     Text coinsText;
 
     void Start()
@@ -23,6 +24,7 @@ public class CoinsDisplay : MonoBehaviour
     {
         coins += amount;
         UpdateDisplay();
+        AudioSource.PlayClipAtPoint(sound, Camera.main.transform.position, 0.2f);
     }
 
     public void SpendCoins(int amount)

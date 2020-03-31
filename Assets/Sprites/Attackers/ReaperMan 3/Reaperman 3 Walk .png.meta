@@ -74,6 +74,78 @@ TextureImporter:
   - first:
       213: -1585662163967168102
     second: Reaperman 3 Walk _23
+  - first:
+      213: -3531809858599945471
+    second: Reaperman 3 Walk _0
+  - first:
+      213: 3532040491491023895
+    second: Reaperman 3 Walk _1
+  - first:
+      213: -2069524583658741318
+    second: Reaperman 3 Walk _2
+  - first:
+      213: 541829764266816295
+    second: Reaperman 3 Walk _3
+  - first:
+      213: 8535541089548642273
+    second: Reaperman 3 Walk _4
+  - first:
+      213: 6324379221171599210
+    second: Reaperman 3 Walk _5
+  - first:
+      213: 7010776851831378882
+    second: Reaperman 3 Walk _6
+  - first:
+      213: 2730618625727641764
+    second: Reaperman 3 Walk _7
+  - first:
+      213: 5153209631358887886
+    second: Reaperman 3 Walk _8
+  - first:
+      213: -8593469457038711140
+    second: Reaperman 3 Walk _9
+  - first:
+      213: -4910452067429328374
+    second: Reaperman 3 Walk _10
+  - first:
+      213: 4794949169691054816
+    second: Reaperman 3 Walk _11
+  - first:
+      213: 6167759360992160682
+    second: Reaperman 3 Walk _12
+  - first:
+      213: -4757176060498810121
+    second: Reaperman 3 Walk _13
+  - first:
+      213: 9121997636840641522
+    second: Reaperman 3 Walk _14
+  - first:
+      213: -1393806500296705176
+    second: Reaperman 3 Walk _15
+  - first:
+      213: 180335406109803681
+    second: Reaperman 3 Walk _16
+  - first:
+      213: -3273584579412096176
+    second: Reaperman 3 Walk _17
+  - first:
+      213: 7225563002392461725
+    second: Reaperman 3 Walk _18
+  - first:
+      213: 6781187291634302548
+    second: Reaperman 3 Walk _19
+  - first:
+      213: -1521740597504477896
+    second: Reaperman 3 Walk _20
+  - first:
+      213: -9165788234289009034
+    second: Reaperman 3 Walk _21
+  - first:
+      213: 8724945827085373987
+    second: Reaperman 3 Walk _22
+  - first:
+      213: -1709708160355040572
+    second: Reaperman 3 Walk _23
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -174,10 +246,10 @@ TextureImporter:
       name: Reaperman 3 Walk _0
       rect:
         serializedVersion: 2
-        x: 232
-        y: 3789
-        width: 438
-        height: 575
+        x: 0
+        y: 3640
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,8 +257,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 673382edd30ad8770800000000000000
-      internalID: 8614717849810252662
+      spriteID: 10b7deb55ad7cfec0800000000000000
+      internalID: -3531809858599945471
       vertices: []
       indices: 
       edges: []
@@ -195,10 +267,10 @@ TextureImporter:
       name: Reaperman 3 Walk _1
       rect:
         serializedVersion: 2
-        x: 1143
-        y: 3789
-        width: 435
-        height: 578
+        x: 910
+        y: 3640
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,8 +278,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27d4abbe185c0ce70800000000000000
-      internalID: 9133517206103674226
+      spriteID: 71c5e9b0d14540130800000000000000
+      internalID: 3532040491491023895
       vertices: []
       indices: 
       edges: []
@@ -216,10 +288,10 @@ TextureImporter:
       name: Reaperman 3 Walk _2
       rect:
         serializedVersion: 2
-        x: 2054
-        y: 3789
-        width: 435
-        height: 580
+        x: 1820
+        y: 3640
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -227,8 +299,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 468456d395ea4e7f0800000000000000
-      internalID: -584150353345951644
+      spriteID: ab125112b529743e0800000000000000
+      internalID: -2069524583658741318
       vertices: []
       indices: 
       edges: []
@@ -237,10 +309,10 @@ TextureImporter:
       name: Reaperman 3 Walk _3
       rect:
         serializedVersion: 2
-        x: 2969
-        y: 3791
-        width: 436
-        height: 578
+        x: 2730
+        y: 3640
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -248,8 +320,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c518a325999287860800000000000000
-      internalID: 7527812515636085084
+      spriteID: 7237bd3cc47f48700800000000000000
+      internalID: 541829764266816295
       vertices: []
       indices: 
       edges: []
@@ -258,10 +330,10 @@ TextureImporter:
       name: Reaperman 3 Walk _4
       rect:
         serializedVersion: 2
-        x: 3882
-        y: 3789
-        width: 436
-        height: 582
+        x: 3640
+        y: 3640
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -269,8 +341,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de9d87c3cb47438b0800000000000000
-      internalID: -5173381720124630547
+      spriteID: 1e72c40d565547670800000000000000
+      internalID: 8535541089548642273
       vertices: []
       indices: 
       edges: []
@@ -279,10 +351,10 @@ TextureImporter:
       name: Reaperman 3 Walk _5
       rect:
         serializedVersion: 2
-        x: 243
-        y: 2883
-        width: 436
-        height: 577
+        x: 0
+        y: 2730
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -290,8 +362,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e71490c3e2debe290800000000000000
-      internalID: -7859927941813550722
+      spriteID: a677bc6c465b4c750800000000000000
+      internalID: 6324379221171599210
       vertices: []
       indices: 
       edges: []
@@ -300,10 +372,10 @@ TextureImporter:
       name: Reaperman 3 Walk _6
       rect:
         serializedVersion: 2
-        x: 1159
-        y: 2883
-        width: 435
-        height: 579
+        x: 910
+        y: 2730
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -311,8 +383,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75873d7eb387e0620800000000000000
-      internalID: 2742261421803010135
+      spriteID: 2c3d0fce6684b4160800000000000000
+      internalID: 7010776851831378882
       vertices: []
       indices: 
       edges: []
@@ -321,10 +393,10 @@ TextureImporter:
       name: Reaperman 3 Walk _7
       rect:
         serializedVersion: 2
-        x: 2074
-        y: 2883
-        width: 433
-        height: 579
+        x: 1820
+        y: 2730
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -332,8 +404,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97fdfad96644cd140800000000000000
-      internalID: 4745743314864562041
+      spriteID: 4a8bf833c2b15e520800000000000000
+      internalID: 2730618625727641764
       vertices: []
       indices: 
       edges: []
@@ -342,10 +414,10 @@ TextureImporter:
       name: Reaperman 3 Walk _8
       rect:
         serializedVersion: 2
-        x: 2985
-        y: 2883
-        width: 433
-        height: 579
+        x: 2730
+        y: 2730
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,8 +425,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f89324e4ff903e810800000000000000
-      internalID: 1793288068757862799
+      spriteID: ec7a44a5bd0e38740800000000000000
+      internalID: 5153209631358887886
       vertices: []
       indices: 
       edges: []
@@ -363,10 +435,10 @@ TextureImporter:
       name: Reaperman 3 Walk _9
       rect:
         serializedVersion: 2
-        x: 3887
-        y: 2880
-        width: 435
-        height: 582
+        x: 3640
+        y: 2730
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,8 +446,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7dedaa41f14924f90800000000000000
-      internalID: -6970846412004466985
+      spriteID: c96e9091f0dddb880800000000000000
+      internalID: -8593469457038711140
       vertices: []
       indices: 
       edges: []
@@ -384,10 +456,10 @@ TextureImporter:
       name: Reaperman 3 Walk _10
       rect:
         serializedVersion: 2
-        x: 254
-        y: 1972
-        width: 434
-        height: 578
+        x: 0
+        y: 1820
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -395,8 +467,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7120a61e77256f2e0800000000000000
-      internalID: -2092394302030609897
+      spriteID: a0ada428cd19adbb0800000000000000
+      internalID: -4910452067429328374
       vertices: []
       indices: 
       edges: []
@@ -405,10 +477,10 @@ TextureImporter:
       name: Reaperman 3 Walk _11
       rect:
         serializedVersion: 2
-        x: 1159
-        y: 1970
-        width: 434
-        height: 579
+        x: 910
+        y: 1820
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -416,8 +488,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d27143da790f0ba60800000000000000
-      internalID: 7687909098158036781
+      spriteID: 0e25d777dd41b8240800000000000000
+      internalID: 4794949169691054816
       vertices: []
       indices: 
       edges: []
@@ -426,10 +498,10 @@ TextureImporter:
       name: Reaperman 3 Walk _12
       rect:
         serializedVersion: 2
-        x: 2063
-        y: 1967
-        width: 435
-        height: 582
+        x: 1820
+        y: 1820
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -437,8 +509,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65eb1785f60865ac0800000000000000
-      internalID: -3866762014337417642
+      spriteID: aab270ce578489550800000000000000
+      internalID: 6167759360992160682
       vertices: []
       indices: 
       edges: []
@@ -447,10 +519,10 @@ TextureImporter:
       name: Reaperman 3 Walk _13
       rect:
         serializedVersion: 2
-        x: 2967
-        y: 1967
-        width: 435
-        height: 580
+        x: 2730
+        y: 1820
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -458,8 +530,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45e881ca8007fae50800000000000000
-      internalID: 6822795143038930516
+      spriteID: 7fae9fbd39d1bfdb0800000000000000
+      internalID: -4757176060498810121
       vertices: []
       indices: 
       edges: []
@@ -468,10 +540,10 @@ TextureImporter:
       name: Reaperman 3 Walk _14
       rect:
         serializedVersion: 2
-        x: 3894
-        y: 1972
-        width: 433
-        height: 582
+        x: 3640
+        y: 1820
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -479,8 +551,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ed6f3a1366c68850800000000000000
-      internalID: 6379004051161312740
+      spriteID: 2f3d6d13588d79e70800000000000000
+      internalID: 9121997636840641522
       vertices: []
       indices: 
       edges: []
@@ -489,10 +561,10 @@ TextureImporter:
       name: Reaperman 3 Walk _15
       rect:
         serializedVersion: 2
-        x: 232
-        y: 1054
-        width: 436
-        height: 582
+        x: 0
+        y: 910
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -500,8 +572,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e969255d766b77f0800000000000000
-      internalID: -613784235720218143
+      spriteID: 86b3f286f5438ace0800000000000000
+      internalID: -1393806500296705176
       vertices: []
       indices: 
       edges: []
@@ -510,10 +582,10 @@ TextureImporter:
       name: Reaperman 3 Walk _16
       rect:
         serializedVersion: 2
-        x: 1141
-        y: 1054
-        width: 435
-        height: 582
+        x: 910
+        y: 910
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -521,8 +593,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0efe124653381ddf0800000000000000
-      internalID: -157200246644805664
+      spriteID: 1a4c99da81ea08200800000000000000
+      internalID: 180335406109803681
       vertices: []
       indices: 
       edges: []
@@ -531,10 +603,10 @@ TextureImporter:
       name: Reaperman 3 Walk _17
       rect:
         serializedVersion: 2
-        x: 2052
-        y: 1056
-        width: 435
-        height: 582
+        x: 1820
+        y: 910
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -542,8 +614,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1dc816762be372220800000000000000
-      internalID: 2461004657340812497
+      spriteID: 05b02f15b24e192d0800000000000000
+      internalID: -3273584579412096176
       vertices: []
       indices: 
       edges: []
@@ -552,10 +624,10 @@ TextureImporter:
       name: Reaperman 3 Walk _18
       rect:
         serializedVersion: 2
-        x: 2967
-        y: 1059
-        width: 435
-        height: 579
+        x: 2730
+        y: 910
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -563,8 +635,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65eca7fcc923972b0800000000000000
-      internalID: -5586378213699170730
+      spriteID: d91cecb944b564460800000000000000
+      internalID: 7225563002392461725
       vertices: []
       indices: 
       edges: []
@@ -573,10 +645,10 @@ TextureImporter:
       name: Reaperman 3 Walk _19
       rect:
         serializedVersion: 2
-        x: 3896
-        y: 1061
-        width: 433
-        height: 580
+        x: 3640
+        y: 910
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -584,8 +656,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3ca660fe533a1690800000000000000
-      internalID: -7630730135772681158
+      spriteID: 45e7149d9ed9b1e50800000000000000
+      internalID: 6781187291634302548
       vertices: []
       indices: 
       edges: []
@@ -594,10 +666,10 @@ TextureImporter:
       name: Reaperman 3 Walk _20
       rect:
         serializedVersion: 2
-        x: 254
-        y: 152
-        width: 434
-        height: 578
+        x: 0
+        y: 0
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -605,8 +677,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bff37f8c288d64650800000000000000
-      internalID: 6216894391860543483
+      spriteID: 83574753df0b1eae0800000000000000
+      internalID: -1521740597504477896
       vertices: []
       indices: 
       edges: []
@@ -615,10 +687,10 @@ TextureImporter:
       name: Reaperman 3 Walk _21
       rect:
         serializedVersion: 2
-        x: 1161
-        y: 150
-        width: 433
-        height: 580
+        x: 910
+        y: 0
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -626,8 +698,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3acfa837813de6f90800000000000000
-      internalID: -6958392272269673309
+      spriteID: 67eafb0d9249cc080800000000000000
+      internalID: -9165788234289009034
       vertices: []
       indices: 
       edges: []
@@ -636,10 +708,10 @@ TextureImporter:
       name: Reaperman 3 Walk _22
       rect:
         serializedVersion: 2
-        x: 2065
-        y: 150
-        width: 435
-        height: 578
+        x: 1820
+        y: 0
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -647,8 +719,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c54b052209baf1e0800000000000000
-      internalID: -2163213252135533119
+      spriteID: 32253f3c00c351970800000000000000
+      internalID: 8724945827085373987
       vertices: []
       indices: 
       edges: []
@@ -657,10 +729,10 @@ TextureImporter:
       name: Reaperman 3 Walk _23
       rect:
         serializedVersion: 2
-        x: 2969
-        y: 149
-        width: 436
-        height: 579
+        x: 2730
+        y: 0
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -668,8 +740,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a91b5feb9a89ef9e0800000000000000
-      internalID: -1585662163967168102
+      spriteID: 4c283709c75e548e0800000000000000
+      internalID: -1709708160355040572
       vertices: []
       indices: 
       edges: []

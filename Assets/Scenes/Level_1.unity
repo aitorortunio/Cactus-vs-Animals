@@ -1207,6 +1207,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   coins: 100
+  sound: {fileID: 8300000, guid: b4387290fc61e436ca228161bedf694a, type: 3}
 --- !u!1 &1347441845
 GameObject:
   m_ObjectHideFlags: 0

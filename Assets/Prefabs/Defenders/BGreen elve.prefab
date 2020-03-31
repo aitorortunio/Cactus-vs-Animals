@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 3259062345024544402}
   - component: {fileID: 656317010623360489}
   - component: {fileID: 7191517776282381210}
+  - component: {fileID: 8855955104644705047}
   m_Layer: 0
   m_Name: BGreen elve
   m_TagString: Untagged
@@ -45,7 +46,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 231c78148af8e48cfb6d3e49d09589cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cost: 40
+  cost: 25
 --- !u!61 &7191517776282381210
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -72,6 +73,19 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.0264297, y: 1.0422876}
   m_EdgeRadius: 0
+--- !u!114 &8855955104644705047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3259062345024544405}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f68825eb85dde42a2b9ce307ecd6da48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 70
 --- !u!1 &3259062345048992735
 GameObject:
   m_ObjectHideFlags: 0
@@ -188,4 +202,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectile: {fileID: 1777589461992276527, guid: 66df32f76d98f44fdbc06101b5a441aa,
     type: 3}
-  range: 3
+  range: 2

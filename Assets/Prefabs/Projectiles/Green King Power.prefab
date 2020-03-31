@@ -100,7 +100,7 @@ MonoBehaviour:
   speed: 5
   slowEnemy: 0
   howSlow: 0
-  damage: 50
+  damage: 40
 --- !u!50 &2221518878233026603
 Rigidbody2D:
   serializedVersion: 4

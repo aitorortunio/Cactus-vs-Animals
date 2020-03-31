@@ -4,5 +4,13 @@ using UnityEngine;
 
 public class Orc : Attacker
 {
-    
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        GameObject otherObject = other.gameObject;
+
+        if (otherObject.GetComponent<Defender>())
+        {
+            this.Attack(otherObject);
+        }
+    }
 }

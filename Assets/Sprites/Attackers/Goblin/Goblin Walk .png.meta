@@ -101,6 +101,51 @@ TextureImporter:
   - first:
       213: 8686452659218724579
     second: Goblin Walk _23
+  - first:
+      213: 1559489814570676541
+    second: Goblin Walk _9
+  - first:
+      213: -1392060629573358300
+    second: Goblin Walk _10
+  - first:
+      213: 574724602933341566
+    second: Goblin Walk _11
+  - first:
+      213: 5183914433611120232
+    second: Goblin Walk _12
+  - first:
+      213: 2190946530625893373
+    second: Goblin Walk _13
+  - first:
+      213: 1981991014875204175
+    second: Goblin Walk _14
+  - first:
+      213: -4164761331760688412
+    second: Goblin Walk _15
+  - first:
+      213: 4981952726651618340
+    second: Goblin Walk _16
+  - first:
+      213: 385047686185609916
+    second: Goblin Walk _17
+  - first:
+      213: 2908234826106423930
+    second: Goblin Walk _18
+  - first:
+      213: 5614534284195242135
+    second: Goblin Walk _19
+  - first:
+      213: 970629117708814709
+    second: Goblin Walk _20
+  - first:
+      213: -2892431515003721639
+    second: Goblin Walk _21
+  - first:
+      213: -1233944057085379271
+    second: Goblin Walk _22
+  - first:
+      213: -8806285974766083028
+    second: Goblin Walk _23
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -201,10 +246,10 @@ TextureImporter:
       name: Goblin Walk _0
       rect:
         serializedVersion: 2
-        x: 268
-        y: 3789
-        width: 388
-        height: 533
+        x: 0
+        y: 3640
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -222,10 +267,10 @@ TextureImporter:
       name: Goblin Walk _1
       rect:
         serializedVersion: 2
-        x: 1176
-        y: 3789
-        width: 391
-        height: 533
+        x: 910
+        y: 3640
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,10 +288,10 @@ TextureImporter:
       name: Goblin Walk _2
       rect:
         serializedVersion: 2
-        x: 2087
-        y: 3789
-        width: 391
-        height: 535
+        x: 1820
+        y: 3640
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,10 +309,10 @@ TextureImporter:
       name: Goblin Walk _3
       rect:
         serializedVersion: 2
-        x: 3003
-        y: 3791
-        width: 388
-        height: 533
+        x: 2730
+        y: 3640
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -285,10 +330,10 @@ TextureImporter:
       name: Goblin Walk _4
       rect:
         serializedVersion: 2
-        x: 3916
-        y: 3789
-        width: 388
-        height: 538
+        x: 3640
+        y: 3640
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -306,10 +351,10 @@ TextureImporter:
       name: Goblin Walk _5
       rect:
         serializedVersion: 2
-        x: 279
-        y: 2883
-        width: 386
-        height: 535
+        x: 0
+        y: 2730
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -327,10 +372,10 @@ TextureImporter:
       name: Goblin Walk _6
       rect:
         serializedVersion: 2
-        x: 1194
-        y: 2883
-        width: 384
-        height: 535
+        x: 910
+        y: 2730
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -348,10 +393,10 @@ TextureImporter:
       name: Goblin Walk _7
       rect:
         serializedVersion: 2
-        x: 2109
-        y: 2883
-        width: 385
-        height: 537
+        x: 1820
+        y: 2730
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -369,10 +414,10 @@ TextureImporter:
       name: Goblin Walk _8
       rect:
         serializedVersion: 2
-        x: 3020
-        y: 2883
-        width: 385
-        height: 535
+        x: 2730
+        y: 2730
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -390,10 +435,10 @@ TextureImporter:
       name: Goblin Walk _9
       rect:
         serializedVersion: 2
-        x: 3922
-        y: 2880
-        width: 387
-        height: 538
+        x: 3640
+        y: 2730
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -401,8 +446,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c3f7d580e8d4b830800000000000000
-      internalID: 4086129220761678789
+      spriteID: d31335c49bb64a510800000000000000
+      internalID: 1559489814570676541
       vertices: []
       indices: 
       edges: []
@@ -411,10 +456,10 @@ TextureImporter:
       name: Goblin Walk _10
       rect:
         serializedVersion: 2
-        x: 290
-        y: 1972
-        width: 382
-        height: 535
+        x: 0
+        y: 1820
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -422,8 +467,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54189ea9981e8b940800000000000000
-      internalID: 5312243741609263429
+      spriteID: 42d297c9b386eace0800000000000000
+      internalID: -1392060629573358300
       vertices: []
       indices: 
       edges: []
@@ -432,10 +477,10 @@ TextureImporter:
       name: Goblin Walk _11
       rect:
         serializedVersion: 2
-        x: 1194
-        y: 1970
-        width: 384
-        height: 537
+        x: 910
+        y: 1820
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -443,8 +488,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8af63e0be0192fde0800000000000000
-      internalID: -1300817850073387096
+      spriteID: e7de4893bf4d9f700800000000000000
+      internalID: 574724602933341566
       vertices: []
       indices: 
       edges: []
@@ -453,10 +498,10 @@ TextureImporter:
       name: Goblin Walk _12
       rect:
         serializedVersion: 2
-        x: 2098
-        y: 1970
-        width: 387
-        height: 535
+        x: 1820
+        y: 1820
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -464,8 +509,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f33c1bbd314837830800000000000000
-      internalID: 4067740109270795071
+      spriteID: 86e396936b6f0f740800000000000000
+      internalID: 5183914433611120232
       vertices: []
       indices: 
       edges: []
@@ -474,10 +519,10 @@ TextureImporter:
       name: Goblin Walk _13
       rect:
         serializedVersion: 2
-        x: 3001
-        y: 1967
-        width: 388
-        height: 536
+        x: 2730
+        y: 1820
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -485,8 +530,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c351632c7283b310800000000000000
-      internalID: 1419621777232974785
+      spriteID: df3b4dfe24ec76e10800000000000000
+      internalID: 2190946530625893373
       vertices: []
       indices: 
       edges: []
@@ -495,10 +540,10 @@ TextureImporter:
       name: Goblin Walk _14
       rect:
         serializedVersion: 2
-        x: 3929
-        y: 1972
-        width: 384
-        height: 537
+        x: 3640
+        y: 1820
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,8 +551,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a21b7a9b653748690800000000000000
-      internalID: -7600823454775398102
+      spriteID: f4a07a5b352718b10800000000000000
+      internalID: 1981991014875204175
       vertices: []
       indices: 
       edges: []
@@ -516,10 +561,10 @@ TextureImporter:
       name: Goblin Walk _15
       rect:
         serializedVersion: 2
-        x: 266
-        y: 1054
-        width: 388
-        height: 538
+        x: 0
+        y: 910
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -527,8 +572,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16dad1f00e7d6dd80800000000000000
-      internalID: -8226150312019382943
+      spriteID: 4e21f1672abc336c0800000000000000
+      internalID: -4164761331760688412
       vertices: []
       indices: 
       edges: []
@@ -537,10 +582,10 @@ TextureImporter:
       name: Goblin Walk _16
       rect:
         serializedVersion: 2
-        x: 1174
-        y: 1054
-        width: 391
-        height: 540
+        x: 910
+        y: 910
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -548,8 +593,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6b79704a169a2650800000000000000
-      internalID: 6208940075778669419
+      spriteID: 424cbdffb93732540800000000000000
+      internalID: 4981952726651618340
       vertices: []
       indices: 
       edges: []
@@ -558,10 +603,10 @@ TextureImporter:
       name: Goblin Walk _17
       rect:
         serializedVersion: 2
-        x: 2085
-        y: 1056
-        width: 391
-        height: 538
+        x: 1820
+        y: 910
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -569,8 +614,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 783a2a5e9bc12f160800000000000000
-      internalID: 7057735150790157191
+      spriteID: cbaedac94d6f75500800000000000000
+      internalID: 385047686185609916
       vertices: []
       indices: 
       edges: []
@@ -579,10 +624,10 @@ TextureImporter:
       name: Goblin Walk _18
       rect:
         serializedVersion: 2
-        x: 3000
-        y: 1059
-        width: 389
-        height: 537
+        x: 2730
+        y: 910
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -590,8 +635,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 965e475db8b5a4ac0800000000000000
-      internalID: -3870180273631730327
+      spriteID: a7a4e757a202c5820800000000000000
+      internalID: 2908234826106423930
       vertices: []
       indices: 
       edges: []
@@ -600,10 +645,10 @@ TextureImporter:
       name: Goblin Walk _19
       rect:
         serializedVersion: 2
-        x: 3931
-        y: 1061
-        width: 382
-        height: 537
+        x: 3640
+        y: 910
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -611,8 +656,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 785e11b4a003d0d50800000000000000
-      internalID: 6705068240991806855
+      spriteID: 790a5b43f25daed40800000000000000
+      internalID: 5614534284195242135
       vertices: []
       indices: 
       edges: []
@@ -621,10 +666,10 @@ TextureImporter:
       name: Goblin Walk _20
       rect:
         serializedVersion: 2
-        x: 290
-        y: 152
-        width: 384
-        height: 535
+        x: 0
+        y: 0
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -632,8 +677,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 654dc4ccc2b9c1950800000000000000
-      internalID: 6421177785431938134
+      spriteID: 5794fa93a0e587d00800000000000000
+      internalID: 970629117708814709
       vertices: []
       indices: 
       edges: []
@@ -642,10 +687,10 @@ TextureImporter:
       name: Goblin Walk _21
       rect:
         serializedVersion: 2
-        x: 1196
-        y: 150
-        width: 385
-        height: 535
+        x: 910
+        y: 0
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -653,8 +698,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b9eccb5378eee8e0800000000000000
-      internalID: -1662135630294095439
+      spriteID: 958ee03acd40cd7d0800000000000000
+      internalID: -2892431515003721639
       vertices: []
       indices: 
       edges: []
@@ -663,10 +708,10 @@ TextureImporter:
       name: Goblin Walk _22
       rect:
         serializedVersion: 2
-        x: 2101
-        y: 150
-        width: 384
-        height: 535
+        x: 1820
+        y: 0
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -674,8 +719,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1fc84436032399080800000000000000
-      internalID: -9180251182012789519
+      spriteID: 93db8b4fa6620eee0800000000000000
+      internalID: -1233944057085379271
       vertices: []
       indices: 
       edges: []
@@ -684,10 +729,10 @@ TextureImporter:
       name: Goblin Walk _23
       rect:
         serializedVersion: 2
-        x: 3005
-        y: 148
-        width: 386
-        height: 535
+        x: 2730
+        y: 0
+        width: 910
+        height: 910
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -695,8 +740,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e6baf6bbaa7c8870800000000000000
-      internalID: 8686452659218724579
+      spriteID: c24209b4099c9c580800000000000000
+      internalID: -8806285974766083028
       vertices: []
       indices: 
       edges: []

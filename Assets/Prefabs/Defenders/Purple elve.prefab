@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 3312907266461989307}
   - component: {fileID: 3409862640331815996}
   - component: {fileID: 5344971263709410474}
+  - component: {fileID: 4485211468733949990}
   m_Layer: 0
   m_Name: Purple elve
   m_TagString: Untagged
@@ -72,6 +73,19 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.0316061, y: 1.0252848}
   m_EdgeRadius: 0
+--- !u!114 &4485211468733949990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3312907266461989306}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f68825eb85dde42a2b9ce307ecd6da48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 80
 --- !u!1 &3312907267667718435
 GameObject:
   m_ObjectHideFlags: 0
@@ -83,6 +97,7 @@ GameObject:
   - component: {fileID: 3312907267667718364}
   - component: {fileID: 3312907267667718366}
   - component: {fileID: 3312907267667718365}
+  - component: {fileID: 577200797}
   m_Layer: 0
   m_Name: Purple elve body
   m_TagString: Untagged
@@ -173,3 +188,18 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &577200797
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3312907267667718435}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af9286d60a38040a4a02d04551fbbb12, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projectile: {fileID: 854278958861095881, guid: b69fc3e426b574c38b3063b9d9b47448,
+    type: 3}
+  range: 1
