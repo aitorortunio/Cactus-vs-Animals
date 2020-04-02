@@ -9,6 +9,17 @@ public class Attacker : MonoBehaviour
     GameObject currentTarget;
     private float currentSpeed;
 
+    private void Awake()
+    {
+        FindObjectOfType<LevelController>().attackerSpawned();
+    }
+
+    private void OnDestroy()
+    {
+        FindObjectOfType<LevelController>().attackerKilled();
+
+    }
+
     private void Start()
     {
         currentSpeed = speed;

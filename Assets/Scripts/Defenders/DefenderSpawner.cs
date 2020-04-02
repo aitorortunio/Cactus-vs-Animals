@@ -5,7 +5,8 @@ using UnityEngine;
 public class DefenderSpawner : MonoBehaviour
 {
     Defender defender;
-    DefenderButton defenderButton;
+    Button defenderButton;
+    private bool powerUp = false;
 
     public bool DefenderSelected()
     {
@@ -20,11 +21,18 @@ public class DefenderSpawner : MonoBehaviour
         }
     }
 
-    public void SetSelectedDefender(Defender selectedDefender,DefenderButton button)
+    public void SetSelectedDefender(Defender selectedDefender,Button button)
 	{
         defender = selectedDefender;
         defenderButton = button;
 	}
+
+    public void SetSelectedDefenderPowerUp(Defender selectedDefender, Button button,bool powerUp)
+    {
+        defender = selectedDefender;
+        defenderButton = button;
+        this.powerUp = powerUp;
+    }
 
     private void attempToSpawnDefenderAt(Vector2 gridPos)
     {
@@ -55,10 +63,13 @@ public class DefenderSpawner : MonoBehaviour
     private void SpawnDefender(Vector2 worldPos)
     {
         defenderButton.GetComponent<SpriteRenderer>().color = new Color32(108, 108, 108, 255);
-        //if (defender != null)
-        //{
-            Defender newDefender = Instantiate(defender, worldPos, Quaternion.identity) as Defender;
-            defender = null;
-        //}
+        Defender newDefender = Instantiate(defender, worldPos, Quaternion.identity) as Defender;
+        if (powerUp)
+        {
+            defenderButton.DestroyButton();
+        }
+        powerUp = false;
+        defender = null;
+        defenderButton = null;
     }
 }

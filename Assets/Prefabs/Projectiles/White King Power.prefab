@@ -99,7 +99,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 6
   slowEnemy: 1
-  howSlow: 10
+  howSlow: 8
   damage: 40
 --- !u!50 &538290448802781584
 Rigidbody2D:

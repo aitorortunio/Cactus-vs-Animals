@@ -33,4 +33,39 @@ public class LevelLoader : MonoBehaviour
     {
         Application.Quit();
     }
+
+    public void LoadGameOverScene()
+    {
+        SceneManager.LoadScene("GameOver_Screen");
+    }
+
+    public void LoadGame()
+    {
+        SceneManager.LoadScene("Level_1");
+    }
+
+    public void StartGame()
+    {
+        SceneManager.LoadScene("Start_Screen");
+    }
+
+    public void loadYouWinScene()
+    {
+        SceneManager.LoadScene("Win_Screen");
+    }
+
+    public void loadHowToPlay1()
+    {
+        SceneManager.LoadScene("HTP_Screen_1");
+    }
+
+    public void loadHowToPlay2()
+    {
+        SceneManager.LoadScene("HTP_Screen_2");
+    }
+
+    public void loadHowToPlay3()
+    {
+        SceneManager.LoadScene("HTP_Screen_3");
+    }
 }

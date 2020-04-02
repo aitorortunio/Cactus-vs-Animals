@@ -14,4 +14,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level_1.unity
     guid: d7f144677cd3f4939bcf19adaedf9b47
+  - enabled: 1
+    path: Assets/Scenes/GameOver_Screen.unity
+    guid: 63f6bf41d6041457fb17c67001fe3801
+  - enabled: 1
+    path: Assets/Scenes/Win_Screen.unity
+    guid: 5675336feeaa747edb0af8116843f900
+  - enabled: 1
+    path: Assets/Scenes/HTP_Screen_1.unity
+    guid: 548d42158b0dd45adb11cf1b72c9706c
+  - enabled: 1
+    path: Assets/Scenes/HTP_Screen_2.unity
+    guid: 94b7f1baa03f5456c81aa96a64090c7f
+  - enabled: 1
+    path: Assets/Scenes/HTP_Screen_3.unity
+    guid: 43921f0ab86764f38a858a6319c63c3c
   m_configObjects: {}

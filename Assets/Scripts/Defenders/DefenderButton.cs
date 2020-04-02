@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DefenderButton : MonoBehaviour
+public class DefenderButton : Button
 {
     [SerializeField] Defender defenderPrefab;
 
-    private void OnMouseDown()
+    public override void OnMouseDown()
     {
         var coinDisplay = FindObjectOfType<CoinsDisplay>();
         int defenderCost = defenderPrefab.getCost();
@@ -28,5 +28,10 @@ public class DefenderButton : MonoBehaviour
                 FindObjectOfType<DefenderSpawner>().SetSelectedDefender(defenderPrefab, this);
             }
         }
+    }
+
+    public override void DestroyButton()
+    {
+        //throw new System.NotImplementedException();
     }
 }
